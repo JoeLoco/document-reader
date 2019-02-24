@@ -50,7 +50,7 @@ serverless invoke local --function read -p sample-payload.json
 
 ### Development Bucket
 
-Put sample documents on **document-reader** bucket
+Put sample documents on **doc-reader** bucket
 
 ### Lambda return example
 
