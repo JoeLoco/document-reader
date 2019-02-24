@@ -1,0 +1,7 @@
+{
+    "queryStringParameters": {
+      "s3_bucket": "doc-reader",
+      "s3_bucket_key": "cnh-example-4.jpg",
+      "document_type": "cnh"
+    }
+  }

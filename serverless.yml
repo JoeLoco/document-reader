@@ -1,0 +1,9 @@
+service: document-reader
+
+provider:
+  name: aws
+  runtime: nodejs8.11
+
+functions:
+  read:
+    handler: handler.read
